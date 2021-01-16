@@ -1,0 +1,32 @@
+{
+    "name": "night-runner",
+    "displayName": "Night Runner",
+    "description": "A futuristic dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "AfonsoVReis",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AfonsoVReis/night-runner.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "black",
+        "theme",
+        "night runner"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Runner",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Runner-color-theme.json"
+            }
+        ]
+    }
+}
