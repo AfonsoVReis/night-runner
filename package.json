@@ -20,6 +20,10 @@
         "theme",
         "night runner"
     ],
+    "scripts": {
+        "release": "standard-version",
+        "postrelease": "git push --follow-tags origin HEAD"
+    },
     "contributes": {
         "themes": [
             {
@@ -28,5 +32,8 @@
                 "path": "./themes/Night Runner-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "standard-version": "^9.1.0"
     }
 }
