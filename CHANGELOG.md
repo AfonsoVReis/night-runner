@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/AfonsoVReis/night-runner/compare/v0.0.4...v1.0.0) (2021-01-17)
+
+
+### Bug Fixes
+
+*  string quote token   ([d30ed66](https://github.com/AfonsoVReis/night-runner/commit/d30ed66e430432df384b537617002b8304aaad02))
+
 ### [0.0.4](https://github.com/AfonsoVReis/night-runner/compare/v0.0.3...v0.0.4) (2021-01-17)
 
 ### 0.0.3 (2021-01-16)
