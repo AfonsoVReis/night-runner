@@ -937,8 +937,8 @@
     {
       "scope": "comment.block",
       "settings": {
-        "foreground": "#7F0000",
-        "fontStyle": ""
+        "foreground": "#bdbdbd",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1043,14 +1043,14 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#d4d42f",
+        "foreground": "#e4e416",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "storage.type.function.arrow",
       "settings": {
-        "foreground": "#d4d42f",
+        "foreground": "#e4e416",
         "fontStyle": "italic bold"
       }
     },
@@ -1387,8 +1387,8 @@
     {
       "scope": "punctuation.definition.comment",
       "settings": {
-        "foreground": "#7F0000",
-        "fontStyle": ""
+        "foreground": "#38fca9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1484,7 +1484,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#666666",
+        "foreground": "#bababa",
         "fontStyle": ""
       }
     },
