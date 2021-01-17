@@ -3,7 +3,9 @@
     "displayName": "Night Runner",
     "description": "A futuristic dark theme for Visual Studio Code",
     "version": "0.0.3",
+    "icon": "images/icon.png",
     "publisher": "AfonsoVReis",
+    "homepage": "https://github.com/AfonsoVReis/night-runner",
     "engines": {
         "vscode": "^1.52.0"
     },
