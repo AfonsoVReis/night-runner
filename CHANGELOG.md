@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/AfonsoVReis/night-runner/compare/v1.2.2...v1.3.0) (2021-09-17)
+
+
+### Features
+
+* improve tab background color ([ae6784b](https://github.com/AfonsoVReis/night-runner/commit/ae6784b05579a2a504d70ea89fe9a309f3d8c435))
+
 ### [1.2.2](https://github.com/AfonsoVReis/night-runner/compare/v1.2.1...v1.2.2) (2021-03-16)
 
 ### [1.2.1](https://github.com/AfonsoVReis/night-runner/compare/v1.2.0...v1.2.1) (2021-03-12)
