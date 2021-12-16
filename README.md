@@ -1,6 +1,10 @@
 # Night Runner Theme
 
- A darked theme for your VSCode editor
+ A darked theme for your VSCode editor.
+
+ Designed for people who use **Reader** mode on their monitors.
+
+ Reduced eye strain, minimizing blue color usage.
 
  High contrast. Tailored for **React**.
 
