@@ -1,26 +1,35 @@
 # Night Runner Theme
 
- A darked theme for your VSCode editor.
+A **dark theme** for Visual Studio Code, designed to enhance focus and reduce eye strain.
 
- Designed for people who use **Reader** mode on their monitors.
+## 🌙 Why Choose Night Runner?
 
- Reduced eye strain, minimizing blue color usage.
+- **Optimized for Reader Mode** – Ideal for users who prefer high-contrast, distraction-free coding environments.
+- **Low Blue Light Emission** – Helps minimize eye fatigue, perfect for long coding sessions.
+- **High Contrast & Sharp Syntax Highlighting** – Designed specifically for **React** developers but works great with any language.
+- **Smooth & Consistent UI** – Aesthetic consistency across panels, terminal, and editor for an immersive experience.
 
- High contrast. Tailored for **React**.
+## 📸 Screenshots
 
-![image info](./images/code.png)
+### JavaScript/React Code
 
-![image info](./images/css.png)
+![JS/React Code](./images/code.png)
 
-![image info](./images/markdown.png)
+### CSS Styling
 
-## Installation
+![CSS Styling](./images/css.png)
 
-1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-1. Search for `Night Runner`
-1. Click **Install**
-1. File > Preferences > Color Theme > **Night Runner**
+## 🚀 Installation
 
-## Recommend font faces
+1. Open **Extensions** sidebar panel in VS Code: `View → Extensions`
+2. Search for `Night Runner`
+3. Click **Install**
+4. Go to: `File → Preferences → Color Theme` and select **Night Runner**
 
-Anonymous Pro, Fira Code
+## 🔤 Recommended Fonts
+
+For the best experience, pair **Night Runner** with:
+
+- [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+
+- [Fira Code](https://github.com/tonsky/FiraCode) _(for ligatures support)_
