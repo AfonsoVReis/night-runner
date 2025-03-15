@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.4](https://github.com/AfonsoVReis/night-runner/compare/v1.3.3...v1.3.4) (2025-03-15)
+
+
+### Bug Fixes
+
+* remove bold font style from function name ([b1badd0](https://github.com/AfonsoVReis/night-runner/commit/b1badd09fc024201c63b3ca574d651bf80e3bd93))
+
 ### [1.3.3](https://github.com/AfonsoVReis/night-runner/compare/v1.3.2...v1.3.3) (2025-03-14)
 
 ### [1.3.2](https://github.com/AfonsoVReis/night-runner/compare/v1.3.1...v1.3.2) (2021-12-16)
