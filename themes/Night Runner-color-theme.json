@@ -812,13 +812,6 @@
       }
     },
     {
-      "scope": "entity.name.function",
-      "settings": {
-        "foreground": "#7EFF7E",
-        "fontStyle": ""
-      }
-    },
-    {
       "scope": "variable",
       "settings": {
         "foreground": "#7EFFFF",
@@ -1095,7 +1088,7 @@
       "scope": "entity.name.function",
       "settings": {
         "foreground": "#e4e416",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
